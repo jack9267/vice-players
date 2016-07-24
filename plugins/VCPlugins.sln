@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "example_plugin", "example_plugin\example_plugin.vcproj", "{5332C285-E157-4D3F-A6EB-781AE90BA18D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sockets_plugin", "sockets_plugin\sockets_plugin.vcproj", "{248D3138-A3A0-41C8-83B8-9A5AB3A1E200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5332C285-E157-4D3F-A6EB-781AE90BA18D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5332C285-E157-4D3F-A6EB-781AE90BA18D}.Debug|Win32.Build.0 = Debug|Win32
+		{5332C285-E157-4D3F-A6EB-781AE90BA18D}.Release|Win32.ActiveCfg = Release|Win32
+		{5332C285-E157-4D3F-A6EB-781AE90BA18D}.Release|Win32.Build.0 = Release|Win32
+		{248D3138-A3A0-41C8-83B8-9A5AB3A1E200}.Debug|Win32.ActiveCfg = Debug|Win32
+		{248D3138-A3A0-41C8-83B8-9A5AB3A1E200}.Debug|Win32.Build.0 = Debug|Win32
+		{248D3138-A3A0-41C8-83B8-9A5AB3A1E200}.Release|Win32.ActiveCfg = Release|Win32
+		{248D3138-A3A0-41C8-83B8-9A5AB3A1E200}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
